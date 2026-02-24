@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>PetersimeBootstrap</Name>
+    <Assembly>J:\Drawings REVIT FAMILIES\02 NEW\Aris\Addins\PetersimeV2\DLLs\RevitBootstrap.dll</Assembly>
+    <FullClassName>RevitBootstrap.Bootstrapper</FullClassName>
+    <ClientId>F3A1B2C4-D5E6-47F8-A9B0-C1D2E3F4A5B6</ClientId>
+    <VendorId>Aristotelis Koulousis</VendorId>
+  </AddIn>
+</RevitAddIns>
